@@ -1,0 +1,13 @@
+{
+  "tasks": [
+    { "name": "Math Study", "duration_minutes": 180, "deadline": "2025-11-25", "priority": "high" },
+    { "name": "Gym", "duration_minutes": 60, "deadline": "2025-11-23", "priority": "medium" },
+    { "name": "Essay Draft", "duration_minutes": 240, "deadline": "2025-11-27", "priority": "high" },
+    { "name": "Laundry", "duration_minutes": 45, "deadline": "2025-11-22", "priority": "low" }
+  ],
+  "time_slots": [
+    { "date": "2025-11-22", "start": "09:00", "end": "12:00" },
+    { "date": "2025-11-22", "start": "14:00", "end": "16:00" },
+    { "date": "2025-11-23", "start": "10:00", "end": "13:00" }
+  ]
+}

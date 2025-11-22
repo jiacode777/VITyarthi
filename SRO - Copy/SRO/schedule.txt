@@ -1,0 +1,7 @@
+Schedule
+2025-11-22 09:00-09:45 | Laundry | 45 min
+2025-11-22 09:45-10:45 | Gym | 60 min
+2025-11-22 10:45-12:00 | Math Study | 75 min
+2025-11-22 14:00-15:45 | Math Study | 105 min
+2025-11-22 15:45-16:00 | Essay Draft | 15 min
+2025-11-23 10:00-13:00 | Essay Draft | 180 min

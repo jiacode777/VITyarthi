@@ -1,0 +1,50 @@
+[
+  {
+    "task_name": "Laundry",
+    "date": "2025-11-22",
+    "start": "09:00",
+    "end": "09:45",
+    "minutes": 45,
+    "segment_index": 1
+  },
+  {
+    "task_name": "Gym",
+    "date": "2025-11-22",
+    "start": "09:45",
+    "end": "10:45",
+    "minutes": 60,
+    "segment_index": 1
+  },
+  {
+    "task_name": "Math Study",
+    "date": "2025-11-22",
+    "start": "10:45",
+    "end": "12:00",
+    "minutes": 75,
+    "segment_index": 1
+  },
+  {
+    "task_name": "Math Study",
+    "date": "2025-11-22",
+    "start": "14:00",
+    "end": "15:45",
+    "minutes": 105,
+    "segment_index": 2
+  },
+  {
+    "task_name": "Essay Draft",
+    "date": "2025-11-22",
+    "start": "15:45",
+    "end": "16:00",
+    "minutes": 15,
+    "segment_index": 1
+  },
+  {
+    "task_name": "Essay Draft",
+    "date": "2025-11-23",
+    "start": "10:00",
+    "end": "13:00",
+    "minutes": 180,
+    "segment_index": 2
+  }
+]
